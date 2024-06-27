@@ -1,2 +1,3 @@
 # Husky
-This is an arbitrary remote control based on ESP32S3 open source, mainly used to control various aircraft models and ground equipment.
+This is STM32F103 driver 4 RX5808S for 1 to 4 hubs
+
